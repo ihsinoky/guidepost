@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"year\":2026]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:00_メタとテンプレ  ",
+      "color": {
+        "a": 1,
+        "rgb": 3026478
+      }
+    },
+    {
+      "query": "[\"level\":長期",
+      "color": {
+        "a": 1,
+        "rgb": 15793946
+      }
+    },
+    {
+      "query": "[\"type\":project",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 2.0887207713555735,
+  "close": false
+}
