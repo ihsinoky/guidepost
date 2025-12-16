@@ -25,14 +25,15 @@
             "id": "c14bd445b33c3ec8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
-                "mode": "source",
-                "source": false
+                "aFile": "02_ゴール/目標ダッシュボード.md",
+                "bFile": "02_ゴール/目標ダッシュボード.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1年ゴール_2026_キャリア"
+              "icon": "diff",
+              "title": "Diff: 目標ダッシュボード"
             }
           },
           {
@@ -207,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1年ゴール_2026_キャリアへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -226,12 +226,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1年ゴール_2026_キャリアからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -269,13 +268,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1年ゴール_2026_キャリアのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -309,8 +307,8 @@
   },
   "active": "c14bd445b33c3ec8",
   "lastOpenFiles": [
-    "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
+    "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "02_ゴール/目標ダッシュボード.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_組込Linux.md",
     "PJ_技術戦略の土台作り_2026Q1.md",
