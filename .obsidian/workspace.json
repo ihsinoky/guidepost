@@ -25,15 +25,14 @@
             "id": "c14bd445b33c3ec8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "02_ゴール/目標ダッシュボード.md",
-                "bFile": "02_ゴール/目標ダッシュボード.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "02_ゴール/目標ダッシュボード.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 目標ダッシュボード"
+              "icon": "lucide-file",
+              "title": "目標ダッシュボード"
             }
           },
           {
@@ -208,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_ゴール/目標ダッシュボード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "目標ダッシュボードへのバックリンク"
             }
           },
           {
@@ -226,11 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_ゴール/目標ダッシュボード.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "目標ダッシュボードからのアウトゴーイングリンク"
             }
           },
           {
@@ -268,12 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02_ゴール/目標ダッシュボード.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "目標ダッシュボードのアウトライン"
             }
           },
           {
@@ -307,13 +309,18 @@
   },
   "active": "c14bd445b33c3ec8",
   "lastOpenFiles": [
+    "04_投資とサブスク/投資_Obsidian.md",
+    "04_投資とサブスク/投資_JetBrains CLion.md",
+    "04_投資とサブスク/投資_Kindle Unlimited.md",
+    "04_投資とサブスク/投資_ChatGPT Plus.md",
+    "04_投資とサブスク/投資_GitHub Copilot Pro.md",
+    "00_メタとテンプレ/TPL_投資.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
     "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "02_ゴール/目標ダッシュボード.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_組込Linux.md",
     "PJ_技術戦略の土台作り_2026Q1.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_CTO機能.md",
-    "00_メタとテンプレ/TPL_投資.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_パラダイム輸入.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_セキュリティ.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_ネットワーク.md",
