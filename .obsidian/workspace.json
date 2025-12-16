@@ -277,13 +277,23 @@
               "icon": "lucide-list",
               "title": "1年ゴール_2026_キャリアのアウトライン"
             }
+          },
+          {
+            "id": "648da9904283e957",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,16 +303,17 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c14bd445b33c3ec8",
   "lastOpenFiles": [
+    "01_ビジョンと価値観/長期ゴール_キャリア.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
     "02_ゴール/目標ダッシュボード.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_組込Linux.md",
     "PJ_技術戦略の土台作り_2026Q1.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
-    "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_CTO機能.md",
     "00_メタとテンプレ/TPL_投資.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_パラダイム輸入.md",
