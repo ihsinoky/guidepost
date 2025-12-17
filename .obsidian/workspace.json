@@ -39,14 +39,14 @@
             "id": "c93acdce900d81c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md?raw=1.md",
+                "bFile": "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md?raw=1.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: 1年ゴール_2026_キャリア_戦略コンサル.md?raw=1"
             }
           },
           {
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 485.5
   },
   "right": {
     "id": "a53d339edc59f877",
@@ -221,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "READMEへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -240,12 +239,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "READMEからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -283,13 +281,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -321,11 +318,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c93acdce900d81c2",
+  "active": "138f8898eac74593",
   "lastOpenFiles": [
-    "01_ビジョンと価値観/長期ゴール_キャリア.md",
-    "README.md",
     "02_ゴール/目標ダッシュボード.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル_kbd.md",
+    "README.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md?raw=1.md",
+    "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "04_投資とサブスク/投資_Obsidian.md",
     "04_投資とサブスク/投資_JetBrains CLion.md",
     "04_投資とサブスク/投資_Kindle Unlimited.md",
@@ -339,7 +339,6 @@
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_パラダイム輸入.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_セキュリティ.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_ネットワーク.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_AI.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_ファイナンス.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_英語.md",
@@ -348,7 +347,6 @@
     "00_メタとテンプレ/TPL_年次ゴール.md",
     "00_メタとテンプレ/TPL_長期ゴール.md",
     "00_メタとテンプレ/TPL_四半期レビュー.md",
-    "00_メタとテンプレ/TPL_プロジェクト.md",
     "00_メタとテンプレ",
     "02_ゴール/03_年次",
     "02_ゴール",
