@@ -11,10 +11,14 @@
             "id": "fda65aae3b3cc7ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_split.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_split"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
-    "collapsed": true
+    "width": 485.5
   },
   "right": {
     "id": "a53d339edc59f877",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_splitへのバックリンク"
             }
           },
           {
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_splitからのアウトゴーイングリンク"
             }
           },
           {
@@ -151,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_split.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_splitのアウトライン"
             }
           },
           {
@@ -191,11 +197,13 @@
   "active": "fda65aae3b3cc7ad",
   "lastOpenFiles": [
     "PJ_虫の目線_六脚ラジコン_電源設計_AA_2026Q1.md",
+    "PJ_自作キーボード_狭ピッチ磁気式_42_BLE_AA1_split.md",
+    "02_ゴール/目標ダッシュボード.md",
+    "01_ビジョンと価値観/長期ゴール_キャリア.md",
+    "01_ビジョンと価値観/長期ゴール_趣味_ものづくり.md",
     "02_ゴール/03_年次/四半期ゴール_2026Q1_趣味_虫の目線_六脚ラジコン.md",
     "02_ゴール/03_年次/1年ゴール_2026_趣味_虫の目線_六脚ラジコン.md",
     "02_ゴール/03_年次/1年ゴール_2026_趣味.md",
-    "01_ビジョンと価値観/長期ゴール_趣味_ものづくり.md",
-    "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_ネットワーク.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_パラダイム輸入.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_CTO機能.md",
@@ -203,7 +211,6 @@
     "振り返り_2024Q2_キャリア.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_ファイナンス.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
-    "02_ゴール/目標ダッシュボード.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル_kbd.md",
     "README.md",
@@ -215,7 +222,6 @@
     "04_投資とサブスク/投資_GitHub Copilot Pro.md",
     "00_メタとテンプレ/TPL_投資.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_組込Linux.md",
-    "PJ_技術戦略の土台作り_2026Q1.md",
     "04_投資とサブスク",
     "00_メタとテンプレ",
     "02_ゴール/03_年次",
