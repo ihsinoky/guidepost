@@ -4,123 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1edb9180921ccedc",
+        "id": "f0d62b26d433e3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f14315972f158a4a",
+            "id": "fda65aae3b3cc7ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_ビジョンと価値観/長期ゴール_キャリア.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "長期ゴール_キャリア"
-            }
-          },
-          {
-            "id": "c14bd445b33c3ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_ゴール/目標ダッシュボード.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "目標ダッシュボード"
-            }
-          },
-          {
-            "id": "2a05c85b30602d6d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
-                "bFile": "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 1年ゴール_2026_キャリア"
-            }
-          },
-          {
-            "id": "0130e232c23f3ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_メタとテンプレ/TPL_四半期ゴール.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TPL_四半期ゴール"
-            }
-          },
-          {
-            "id": "867d8d3d9b5720df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_メタとテンプレ/TPL_プロジェクト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TPL_プロジェクト"
-            }
-          },
-          {
-            "id": "2f39b4bc5e939c79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_メタとテンプレ/TPL_投資.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TPL_投資"
-            }
-          },
-          {
-            "id": "089168b130d5cf5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_メタとテンプレ/TPL_四半期レビュー.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TPL_四半期レビュー"
-            }
-          },
-          {
-            "id": "739c48f096a41bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_ゴール/目標ダッシュボード.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "目標ダッシュボード"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2024",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,12 +70,12 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 485.5,
+    "collapsed": true
   },
   "right": {
     "id": "a53d339edc59f877",
@@ -291,19 +188,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a05c85b30602d6d",
+  "active": "fda65aae3b3cc7ad",
   "lastOpenFiles": [
+    "PJ_虫の目線_六脚ラジコン_電源設計_AA_2026Q1.md",
+    "02_ゴール/03_年次/四半期ゴール_2026Q1_趣味_虫の目線_六脚ラジコン.md",
+    "02_ゴール/03_年次/1年ゴール_2026_趣味_虫の目線_六脚ラジコン.md",
+    "02_ゴール/03_年次/1年ゴール_2026_趣味.md",
+    "01_ビジョンと価値観/長期ゴール_趣味_ものづくり.md",
+    "01_ビジョンと価値観/長期ゴール_キャリア.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア_ネットワーク.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア_パラダイム輸入.md",
+    "02_ゴール/03_年次/1年ゴール_2026_キャリア_CTO機能.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_英語.md",
     "振り返り_2024Q2_キャリア.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_ファイナンス.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア_ネットワーク.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア.md",
     "02_ゴール/目標ダッシュボード.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル_kbd.md",
     "README.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_戦略コンサル.md?raw=1.md",
-    "01_ビジョンと価値観/長期ゴール_キャリア.md",
     "04_投資とサブスク/投資_Obsidian.md",
     "04_投資とサブスク/投資_JetBrains CLion.md",
     "04_投資とサブスク/投資_Kindle Unlimited.md",
@@ -312,14 +216,7 @@
     "00_メタとテンプレ/TPL_投資.md",
     "02_ゴール/03_年次/1年ゴール_2026_キャリア_組込Linux.md",
     "PJ_技術戦略の土台作り_2026Q1.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア_CTO機能.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア_パラダイム輸入.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア_セキュリティ.md",
-    "02_ゴール/03_年次/1年ゴール_2026_キャリア_AI.md",
     "04_投資とサブスク",
-    "00_メタとテンプレ/TPL_四半期ゴール.md",
-    "00_メタとテンプレ/TPL_年次ゴール.md",
-    "00_メタとテンプレ/TPL_長期ゴール.md",
     "00_メタとテンプレ",
     "02_ゴール/03_年次",
     "02_ゴール",
